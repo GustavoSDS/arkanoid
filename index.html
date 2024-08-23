@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Arkanoid is a classic arcade game.">
+    <meta name="keywords" content="Arkanoid, Game, HTML, CSS, JavaScript">
+    <meta name="author" content="Gustavo S. Dos Santos">
+
+    <title>Arkanoid</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <main class="container">
+        <canvas>
+            Your browser does not support the HTML5 canvas tag.
+        </canvas>
+        <div id="home" class="fadeIn">
+            <h1 class="fadeIn">Arkanoid</h1>
+            
+            <p class="fadeIn">
+                Este es un juego de arkanoid que se puede jugar en cualquier navegador web que soporte Canvas. <br>
+                Se puede constrolar con las teclas de dirección del teclado.
+            </p>
+            <!-- <h2>Récord de la partida <span id="score"></span></h2> -->
+            <button class="fadeIn" id="startButton">Jugar</button>
+        </div>
+    </main>
+
+    <img hidden id="bricks" src="./images/bricks.avif" alt="Brick Breaker">
+    <img hidden id="sprite" src="./images/sprite.avif" alt="Brick Breaker">
+
+
+    <script src="script.js" async></script>
+</body>
+
+</html>
