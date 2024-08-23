@@ -1,5 +1,6 @@
-
 # Arkanoid Juego Clasico en JavaScript con Canvas
+
+![imagen de la pantalla del juego](./images/arkanoid.png)
 
 ## Description
 
@@ -8,7 +9,7 @@ Se puede constrolar con las teclas de dirección del teclado.
 
 Puedes jugar hasta 3 vidas y ganar puntos cada vez que logras destruir un bloque.
 La puntuación se muestra en la parte superior de la pantalla.
-Haz clic aquí para jugar: https://js13kgames.com/entries/arkanoid
+Haz clic aquí para jugar: [arkanoid](https://arkanoid-gustavo-sds.netlify.app/)
 
 ## Tecnologías usadas
 
