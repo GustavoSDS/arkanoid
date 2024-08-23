@@ -9,11 +9,10 @@ Se puede constrolar con las teclas de dirección del teclado.
 
 Puedes jugar hasta 3 vidas y ganar puntos cada vez que logras destruir un bloque.
 La puntuación se muestra en la parte superior de la pantalla.
-Haz clic aquí para jugar: [arkanoid](https://arkanoid-gustavo-sds.netlify.app/)
+Haz clic aquí para jugar: [ARKANOID](https://arkanoid-gustavo-sds.netlify.app/)
 
 ## Tecnologías usadas
 
-- Canvas
 - JavaScript
 - CSS
 - HTML
@@ -27,3 +26,9 @@ Haz clic aquí para jugar: [arkanoid](https://arkanoid-gustavo-sds.netlify.app/)
 - Como usar `for` para iterar sobre un array
 - Como usar las imagenes de sprites para dibujar en la pantalla
 - Como usar `drawImage` para dibujar una imagen en la pantalla
+
+## Links de interés
+- [Arkanoid en Wikipedia](https://es.wikipedia.org/wiki/Arkanoid)
+
+## Licencia
+Este proyecto está licenciado bajo licencia [MIT](https://opensource.org/licenses/MIT).
