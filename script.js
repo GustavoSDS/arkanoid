@@ -237,9 +237,8 @@ function gameOver() {
 
 function youWin() {
     if (score === brickRows * brickColumns * 10) {
-        alert('¡Has ganado!');
-        gameStarted = false;
-        document.location.reload();    
+        alert('You Win!');
+        document.location.reload();
     }
     console.log(score);
 }
